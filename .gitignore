@@ -1,0 +1,4 @@
+temp/
+teste.txt
+
+*.css > asterisco é para ignorar todos que são css
